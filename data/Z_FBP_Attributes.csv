@@ -1,0 +1,148 @@
+value,descriptive_name,fuel_type,spring_hazard,summer_hazard
+1,Spruce-Lichen Woodland,C-1,7,7
+2,Boreal Spruce,C-2,10,10
+3,Mature Jack or Lodgepole Pine,C-3,7,7
+4,Immature Jack or Lodgepole Pine,C-4,10,10
+5,Red and White Pine,C-5,3,2
+6,Conifer Plantation,C-6,5,5
+7,Ponderosa Pine - Douglas-Fir,C-7,4,3
+11,Leafless Aspen,D-1,3,3
+12,Green Aspen (with BUI Thresholding),D-2,1,1
+13,Aspen,D-1/D-2,3,1
+19,Nova Scotia Special (Shrub?) not in LF Classification,NS-1,,
+21,Jack or Lodgepole Pine Slash,S-1,5,5
+22,White Spruce - Balsam Slash,S-2,6,6
+23,Coastal Cedar - Hemlock - Douglas-Fir Slash,S-3,8,8
+31,Matted Grass,O-1a,8,2
+32,Standing Grass,O-1b,8,2
+33,Grass,O-1a/O-1b,8,2
+40,Boreal Mixedwood - Leafless,M-1,7,7
+50,Boreal Mixedwood - Green,M-2,6,6
+60,Boreal Mixedwood,M-1/M-2,7,6
+70,Dead Balsam Fir Mixedwood - Leafless,M-3,10,10
+80,Dead Balsam Fir Mixedwood - Green,M-4,8,8
+90,Dead Balsam Fir Mixedwood,M-3/M-4,10,7
+100,Not Available,NA,0,0
+101,Non-fuel,NF,0,0
+102,Water,Water,0,0
+103,Unknown,UK,0,0
+104,Unclassified,UN,0,0
+105,Vegetated Non-Fuel,VNF,0,0
+106,Unclassified,UNC,0,0
+107,Urban,URB,0,0
+108,Snow/Ice,ICE,0,0
+405,Boreal Mixedwood - Leafless (05% Conifer),M-1 (05 PC),2,2
+410,Boreal Mixedwood - Leafless (10% Conifer),M-1 (10 PC),3,3
+415,Boreal Mixedwood - Leafless (15% Conifer),M-1 (15 PC),3,3
+420,Boreal Mixedwood - Leafless (20% Conifer),M-1 (20 PC),5,5
+425,Boreal Mixedwood - Leafless (25% Conifer),M-1 (25 PC),5,5
+430,Boreal Mixedwood - Leafless (30% Conifer),M-1 (30 PC),5,5
+435,Boreal Mixedwood - Leafless (35% Conifer),M-1 (35 PC),5,5
+440,Boreal Mixedwood - Leafless (40% Conifer),M-1 (40 PC),5,5
+445,Boreal Mixedwood - Leafless (45% Conifer),M-1 (45 PC),7,7
+450,Boreal Mixedwood - Leafless (50% Conifer),M-1 (50 PC),7,7
+455,Boreal Mixedwood - Leafless (55% Conifer),M-1 (55 PC),7,7
+460,Boreal Mixedwood - Leafless (60% Conifer),M-1 (60 PC),7,7
+465,Boreal Mixedwood - Leafless (65% Conifer),M-1 (65 PC),7,7
+470,Boreal Mixedwood - Leafless (70% Conifer),M-1 (70 PC),8,8
+475,Boreal Mixedwood - Leafless (75% Conifer),M-1 (75 PC),8,8
+480,Boreal Mixedwood - Leafless (80% Conifer),M-1 (80 PC),8,8
+485,Boreal Mixedwood - Leafless (85% Conifer),M-1 (85 PC),8,8
+490,Boreal Mixedwood - Leafless (90% Conifer),M-1 (90 PC),8,8
+495,Boreal Mixedwood - Leafless (95% Conifer),M-1 (95 PC),8,8
+505,Boreal Mixedwood - Green (05% Conifer),M-2 (05 PC),2,2
+510,Boreal Mixedwood - Green (10% Conifer),M-2 (10 PC),2,2
+515,Boreal Mixedwood - Green (15% Conifer),M-2 (15 PC),2,2
+520,Boreal Mixedwood - Green (20% Conifer),M-2 (20 PC),3,3
+525,Boreal Mixedwood - Green (25% Conifer),M-2 (25 PC),3,3
+530,Boreal Mixedwood - Green (30% Conifer),M-2 (30 PC),3,3
+535,Boreal Mixedwood - Green (35% Conifer),M-2 (35 PC),3,3
+540,Boreal Mixedwood - Green (40% Conifer),M-2 (40 PC),3,3
+545,Boreal Mixedwood - Green (45% Conifer),M-2 (45 PC),6,6
+550,Boreal Mixedwood - Green (50% Conifer),M-2 (50 PC),6,6
+555,Boreal Mixedwood - Green (55% Conifer),M-2 (55 PC),6,6
+560,Boreal Mixedwood - Green (60% Conifer),M-2 (60 PC),6,6
+565,Boreal Mixedwood - Green (65% Conifer),M-2 (65 PC),6,6
+570,Boreal Mixedwood - Green (70% Conifer),M-2 (70 PC),8,8
+575,Boreal Mixedwood - Green (75% Conifer),M-2 (75 PC),8,8
+580,Boreal Mixedwood - Green (80% Conifer),M-2 (80 PC),8,8
+585,Boreal Mixedwood - Green (85% Conifer),M-2 (85 PC),8,8
+590,Boreal Mixedwood - Green (90% Conifer),M-2 (90 PC),8,8
+595,Boreal Mixedwood - Green (95% Conifer),M-2 (95 PC),8,8
+605,Boreal Mixedwood (05% Conifer),M-1/M-2 (05 PC),2,2
+610,Boreal Mixedwood (10% Conifer),M-1/M-2 (10 PC),3,2
+615,Boreal Mixedwood (15% Conifer),M-1/M-2 (15 PC),3,2
+620,Boreal Mixedwood (20% Conifer),M-1/M-2 (20 PC),5,3
+625,Boreal Mixedwood (25% Conifer),M-1/M-2 (25 PC),5,3
+630,Boreal Mixedwood (30% Conifer),M-1/M-2 (30 PC),5,3
+635,Boreal Mixedwood (35% Conifer),M-1/M-2 (35 PC),5,3
+640,Boreal Mixedwood (40% Conifer),M-1/M-2 (40 PC),5,3
+645,Boreal Mixedwood (45% Conifer),M-1/M-2 (45 PC),7,6
+650,Boreal Mixedwood (50% Conifer),M-1/M-2 (50 PC),7,6
+655,Boreal Mixedwood (55% Conifer),M-1/M-2 (55 PC),7,6
+660,Boreal Mixedwood (60% Conifer),M-1/M-2 (60 PC),7,6
+665,Boreal Mixedwood (65% Conifer),M-1/M-2 (65 PC),7,6
+670,Boreal Mixedwood (70% Conifer),M-1/M-2 (70 PC),8,8
+675,Boreal Mixedwood (75% Conifer),M-1/M-2 (75 PC),8,8
+680,Boreal Mixedwood (80% Conifer),M-1/M-2 (80 PC),8,8
+685,Boreal Mixedwood (85% Conifer),M-1/M-2 (85 PC),8,8
+690,Boreal Mixedwood (90% Conifer),M-1/M-2 (90 PC),8,8
+695,Boreal Mixedwood (95% Conifer),M-1/M-2 (95 PC),8,8
+705,Dead Balsam Fir Mixedwood - Leafless (05% Dead Fir),M-3 (05 PDF),6,6
+710,Dead Balsam Fir Mixedwood - Leafless (10% Dead Fir),M-3 (10 PDF),6,6
+715,Dead Balsam Fir Mixedwood - Leafless (15% Dead Fir),M-3 (15 PDF),6,6
+720,Dead Balsam Fir Mixedwood - Leafless (20% Dead Fir),M-3 (20 PDF),6,6
+725,Dead Balsam Fir Mixedwood - Leafless (25% Dead Fir),M-3 (25 PDF),10,10
+730,Dead Balsam Fir Mixedwood - Leafless (30% Dead Fir),M-3 (30 PDF),10,10
+735,Dead Balsam Fir Mixedwood - Leafless (35% Dead Fir),M-3 (35 PDF),10,10
+740,Dead Balsam Fir Mixedwood - Leafless (40% Dead Fir),M-3 (40 PDF),10,10
+745,Dead Balsam Fir Mixedwood - Leafless (45% Dead Fir),M-3 (45 PDF),10,10
+750,Dead Balsam Fir Mixedwood - Leafless (50% Dead Fir),M-3 (50 PDF),10,10
+755,Dead Balsam Fir Mixedwood - Leafless (55% Dead Fir),M-3 (55 PDF),10,10
+760,Dead Balsam Fir Mixedwood - Leafless (60% Dead Fir),M-3 (60 PDF),10,10
+765,Dead Balsam Fir Mixedwood - Leafless (65% Dead Fir),M-3 (65 PDF),10,10
+770,Dead Balsam Fir Mixedwood - Leafless (70% Dead Fir),M-3 (70 PDF),10,10
+775,Dead Balsam Fir Mixedwood - Leafless (75% Dead Fir),M-3 (75 PDF),10,10
+780,Dead Balsam Fir Mixedwood - Leafless (80% Dead Fir),M-3 (80 PDF),10,10
+785,Dead Balsam Fir Mixedwood - Leafless (85% Dead Fir),M-3 (85 PDF),10,10
+790,Dead Balsam Fir Mixedwood - Leafless (90% Dead Fir),M-3 (90 PDF),10,10
+795,Dead Balsam Fir Mixedwood - Leafless (95% Dead Fir),M-3 (95 PDF),10,10
+805,Dead Balsam Fir Mixedwood - Green (05% Dead Fir),M-4 (05 PDF),2,2
+810,Dead Balsam Fir Mixedwood - Green (10% Dead Fir),M-4 (10 PDF),3,2
+815,Dead Balsam Fir Mixedwood - Green (15% Dead Fir),M-4 (15 PDF),3,2
+820,Dead Balsam Fir Mixedwood - Green (20% Dead Fir),M-4 (20 PDF),5,3
+825,Dead Balsam Fir Mixedwood - Green (25% Dead Fir),M-4 (25 PDF),7,7
+830,Dead Balsam Fir Mixedwood - Green (30% Dead Fir),M-4 (30 PDF),7,7
+835,Dead Balsam Fir Mixedwood - Green (35% Dead Fir),M-4 (35 PDF),7,7
+840,Dead Balsam Fir Mixedwood - Green (40% Dead Fir),M-4 (40 PDF),7,7
+845,Dead Balsam Fir Mixedwood - Green (45% Dead Fir),M-4 (45 PDF),7,7
+850,Dead Balsam Fir Mixedwood - Green (50% Dead Fir),M-4 (50 PDF),8,8
+855,Dead Balsam Fir Mixedwood - Green (55% Dead Fir),M-4 (55 PDF),8,8
+860,Dead Balsam Fir Mixedwood - Green (60% Dead Fir),M-4 (60 PDF),8,8
+865,Dead Balsam Fir Mixedwood - Green (65% Dead Fir),M-4 (65 PDF),8,8
+870,Dead Balsam Fir Mixedwood - Green (70% Dead Fir),M-4 (70 PDF),8,8
+875,Dead Balsam Fir Mixedwood - Green (75% Dead Fir),M-4 (75 PDF),8,8
+880,Dead Balsam Fir Mixedwood - Green (80% Dead Fir),M-4 (80 PDF),10,10
+885,Dead Balsam Fir Mixedwood - Green (85% Dead Fir),M-4 (85 PDF),10,10
+890,Dead Balsam Fir Mixedwood - Green (90% Dead Fir),M-4 (90 PDF),10,10
+895,Dead Balsam Fir Mixedwood - Green (95% Dead Fir),M-4 (95 PDF),10,10
+905,Dead Balsam Fir Mixedwood (05% Dead Fir),M-3/M-4 (05 PDF),6,2
+910,Dead Balsam Fir Mixedwood (10% Dead Fir),M-3/M-4 (10 PDF),6,2
+915,Dead Balsam Fir Mixedwood (15% Dead Fir),M-3/M-4 (15 PDF),6,2
+920,Dead Balsam Fir Mixedwood (20% Dead Fir),M-3/M-4 (20 PDF),6,3
+925,Dead Balsam Fir Mixedwood (25% Dead Fir),M-3/M-4 (25 PDF),10,7
+930,Dead Balsam Fir Mixedwood (30% Dead Fir),M-3/M-4 (30 PDF),10,7
+935,Dead Balsam Fir Mixedwood (35% Dead Fir),M-3/M-4 (35 PDF),10,7
+940,Dead Balsam Fir Mixedwood (40% Dead Fir),M-3/M-4 (40 PDF),10,7
+945,Dead Balsam Fir Mixedwood (45% Dead Fir),M-3/M-4 (45 PDF),10,7
+950,Dead Balsam Fir Mixedwood (50% Dead Fir),M-3/M-4 (50 PDF),10,8
+955,Dead Balsam Fir Mixedwood (55% Dead Fir),M-3/M-4 (55 PDF),10,8
+960,Dead Balsam Fir Mixedwood (60% Dead Fir),M-3/M-4 (60 PDF),10,8
+965,Dead Balsam Fir Mixedwood (65% Dead Fir),M-3/M-4 (65 PDF),10,8
+970,Dead Balsam Fir Mixedwood (70% Dead Fir),M-3/M-4 (70 PDF),10,8
+975,Dead Balsam Fir Mixedwood (75% Dead Fir),M-3/M-4 (75 PDF),10,8
+980,Dead Balsam Fir Mixedwood (80% Dead Fir),M-3/M-4 (80 PDF),10,10
+985,Dead Balsam Fir Mixedwood (85% Dead Fir),M-3/M-4 (85 PDF),10,10
+990,Dead Balsam Fir Mixedwood (90% Dead Fir),M-3/M-4 (90 PDF),10,10
+995,Dead Balsam Fir Mixedwood (95% Dead Fir),M-3/M-4 (95 PDF),10,10
+1000,"Wetland, Unclassified",WET,0,0

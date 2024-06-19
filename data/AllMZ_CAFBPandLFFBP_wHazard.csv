@@ -1,0 +1,1502 @@
+MapZone,Value,Count,FBP_30m_90,CA_FuelType,CAFuelGrp,CA_SprHaz,CA_SumHaz,z01x_cfdrs,LF_FuelType,LFFuelGrp,LF_SprHaz,LF_SumHaz,SprDiff,SumDiff
+1,1,2564841,5,C-5,Conifer,3,2,7,C-7,Conifer,4,3,-1,-1
+1,2,6529080,5,C-5,Conifer,3,2,3,C-3,Conifer,7,7,-4,-5
+1,3,2304482,3,C-3,Conifer,7,7,3,C-3,Conifer,7,7,0,0
+1,4,324571,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+1,5,1836063,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+1,6,733130,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+1,7,1431068,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+1,8,443165,7,C-7,Conifer,4,3,33,O-1a/O-1b,Open,8,2,-4,1
+1,9,224127,7,C-7,Conifer,4,3,60,M-1/M-2,Mixed,7,6,-3,-3
+1,10,172759,7,C-7,Conifer,4,3,5,C-5,Conifer,3,2,1,1
+1,11,2892580,5,C-5,Conifer,3,2,5,C-5,Conifer,3,2,0,0
+1,12,158084,7,C-7,Conifer,4,3,7,C-7,Conifer,4,3,0,0
+1,13,53518,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+1,14,459163,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+1,15,9280402,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+1,16,119136,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+1,17,3899,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+1,18,367073,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+1,19,40325,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+1,20,548809,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+1,21,497647,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+1,22,602613,3,C-3,Conifer,7,7,5,C-5,Conifer,3,2,4,5
+1,23,1830448,3,C-3,Conifer,7,7,7,C-7,Conifer,4,3,3,4
+1,24,174708,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+1,25,224103,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+1,26,338348,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+1,27,337686,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+1,28,22335,625,M-1/M-2 (25 PC),Mixed,5,3,5,C-5,Conifer,3,2,2,1
+1,29,131454,11,D-1,Deciduous,3,3,5,C-5,Conifer,3,2,0,1
+1,30,129637,675,M-1/M-2 (75 PC),Mixed,8,8,7,C-7,Conifer,4,3,4,5
+1,31,180508,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+1,32,40127,13,D-1/D-2,Deciduous,3,1,5,C-5,Conifer,3,2,0,-1
+1,33,23259,101,NF,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+1,34,244780,415,M-1 (15 PC),Mixed,3,3,3,C-3,Conifer,7,7,-4,-4
+1,35,122329,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+1,36,44023,31,O-1a,Open,8,2,3,C-3,Conifer,7,7,1,-5
+1,37,166787,2,C-2,Conifer,10,10,3,C-3,Conifer,7,7,3,3
+1,38,83165,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+1,39,8441,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+1,40,10080,650,M-1/M-2 (50 PC),Mixed,7,6,5,C-5,Conifer,3,2,4,4
+1,41,317398,675,M-1/M-2 (75 PC),Mixed,8,8,3,C-3,Conifer,7,7,1,1
+1,42,3131,102,Water,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+1,43,33187,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+1,44,358487,7,C-7,Conifer,4,3,3,C-3,Conifer,7,7,-3,-4
+1,45,92038,415,M-1 (15 PC),Mixed,3,3,7,C-7,Conifer,4,3,-1,0
+1,46,305037,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+1,47,59401,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+1,48,63327,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+1,49,15042,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+1,50,68175,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+1,51,44614,13,D-1/D-2,Deciduous,3,1,3,C-3,Conifer,7,7,-4,-6
+1,52,19321,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+1,53,14601,101,NF,NonFuel,0,0,5,C-5,Conifer,3,2,-3,-2
+1,54,213253,415,M-1 (15 PC),Mixed,3,3,101,NF,NonFuel,0,0,3,3
+1,55,68229,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+1,56,41940,7,C-7,Conifer,4,3,101,NF,NonFuel,0,0,4,3
+1,57,35231,31,O-1a,Open,8,2,5,C-5,Conifer,3,2,5,0
+1,58,273336,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+1,59,63502,625,M-1/M-2 (25 PC),Mixed,5,3,3,C-3,Conifer,7,7,-2,-4
+1,60,142162,11,D-1,Deciduous,3,3,3,C-3,Conifer,7,7,-4,-4
+1,61,39089,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+1,62,76524,415,M-1 (15 PC),Mixed,3,3,5,C-5,Conifer,3,2,0,1
+1,63,3138,650,M-1/M-2 (50 PC),Mixed,7,6,3,C-3,Conifer,7,7,0,-1
+1,64,41279,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+1,65,36372,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+1,66,38021,11,D-1,Deciduous,3,3,7,C-7,Conifer,4,3,-1,0
+1,67,11781,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+1,68,73291,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+1,69,27056,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+1,70,1622506,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+1,71,19896,4,C-4,Conifer,10,10,3,C-3,Conifer,7,7,3,3
+1,72,102024,675,M-1/M-2 (75 PC),Mixed,8,8,5,C-5,Conifer,3,2,5,6
+1,73,128373,13,D-1/D-2,Deciduous,3,1,7,C-7,Conifer,4,3,-1,-2
+1,74,19367,7,C-7,Conifer,4,3,102,Water,NonFuel,0,0,4,3
+1,75,13660,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+1,76,5169,102,Water,NonFuel,0,0,5,C-5,Conifer,3,2,-3,-2
+1,77,45708,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+1,78,235452,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+1,79,61440,2,C-2,Conifer,10,10,5,C-5,Conifer,3,2,7,8
+1,80,20168,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+1,81,28223,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+1,82,5828,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+1,83,75498,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+1,84,12489,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+1,85,3731,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+1,86,194332,4,C-4,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+1,87,595092,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+1,88,39077,7,C-7,Conifer,4,3,100,NA,NonFuel,0,0,4,3
+1,89,32709,415,M-1 (15 PC),Mixed,3,3,100,NA,NonFuel,0,0,3,3
+1,90,132435,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+1,91,44883,31,O-1a,Open,8,2,7,C-7,Conifer,4,3,4,-1
+1,92,10040,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+1,93,5357,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+1,94,16101,101,NF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+1,95,52415,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+1,96,1858,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+1,97,17687,4,C-4,Conifer,10,10,5,C-5,Conifer,3,2,7,8
+1,98,41770,625,M-1/M-2 (25 PC),Mixed,5,3,7,C-7,Conifer,4,3,1,0
+1,99,2737,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+1,100,7867,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+1,101,7105,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+1,102,353641,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+1,103,1619,650,M-1/M-2 (50 PC),Mixed,7,6,7,C-7,Conifer,4,3,3,3
+1,104,4066,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+1,105,2675,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+1,106,763,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+1,107,4592,415,M-1 (15 PC),Mixed,3,3,102,Water,NonFuel,0,0,3,3
+1,108,479,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+1,109,44224,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+1,110,551057,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+1,111,26331,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+1,112,3993,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+1,113,16562,7,C-7,Conifer,4,3,105,VNF,NonFuel,0,0,4,3
+1,114,106520,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+1,115,4704,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+1,116,1180,102,Water,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+1,117,18896,105,VNF,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+1,118,2469,105,VNF,NonFuel,0,0,5,C-5,Conifer,3,2,-3,-2
+1,119,59739,105,VNF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+1,120,263,105,VNF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+1,121,126310,105,VNF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+1,122,16176,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+1,123,14058,105,VNF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+1,124,1602,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+1,125,1306,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+1,126,735,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+1,127,253,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+1,128,806,105,VNF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+1,129,386,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+1,130,128175,2,C-2,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+1,131,1940914,3,C-3,Conifer,7,7,1,C-1,Conifer,7,7,0,0
+1,132,126139,2,C-2,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+1,133,137138,5,C-5,Conifer,3,2,1,C-1,Conifer,7,7,-4,-5
+1,134,3138,625,M-1/M-2 (25 PC),Mixed,5,3,1,C-1,Conifer,7,7,-2,-4
+1,135,488914,4,C-4,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+1,136,32833,415,M-1 (15 PC),Mixed,3,3,1,C-1,Conifer,7,7,-4,-4
+1,137,26020,675,M-1/M-2 (75 PC),Mixed,8,8,1,C-1,Conifer,7,7,1,1
+1,138,345,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+1,139,48352,31,O-1a,Open,8,2,1,C-1,Conifer,7,7,1,-5
+1,140,2,11,D-1,Deciduous,3,3,1,C-1,Conifer,7,7,-4,-4
+1,141,10842,7,C-7,Conifer,4,3,1,C-1,Conifer,7,7,-3,-4
+1,142,185398,13,D-1/D-2,Deciduous,3,1,1,C-1,Conifer,7,7,-4,-6
+1,143,4064,101,NF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+1,144,217,102,Water,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+1,145,32,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+1,146,313,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+1,147,618,105,VNF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+1,148,14,650,M-1/M-2 (50 PC),Mixed,7,6,1,C-1,Conifer,7,7,0,-1
+1,149,20,105,VNF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+1,150,208092,105,VNF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+8,1,45005,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+8,2,34778,4,C-4,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+8,3,463683,3,C-3,Conifer,7,7,7,C-7,Conifer,4,3,3,4
+8,4,41419,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+8,5,340525,5,C-5,Conifer,3,2,7,C-7,Conifer,4,3,-1,-1
+8,6,204756,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+8,7,66315,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+8,8,42088,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+8,9,9519,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+8,10,15336,31,O-1a,Open,8,2,7,C-7,Conifer,4,3,4,-1
+8,11,85501,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+8,12,3510,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+8,13,772,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+8,14,220359,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+8,15,1863,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+8,16,175658,13,D-1/D-2,Deciduous,3,1,7,C-7,Conifer,4,3,-1,-2
+8,17,504,102,Water,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+8,18,2826,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+8,19,15880,2,C-2,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+8,20,115250,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+8,21,9047,101,NF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+8,22,23388,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+8,23,96181,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+8,24,232,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+8,25,33820,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+8,26,36247,4,C-4,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+8,27,45547,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+8,28,10613,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+8,29,558,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+8,30,51461,5,C-5,Conifer,3,2,13,D-1/D-2,Deciduous,3,1,0,1
+8,31,595,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+8,32,130,415,M-1 (15 PC),Mixed,3,3,7,C-7,Conifer,4,3,-1,0
+8,33,11,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+8,34,1536,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+8,35,78953,4,C-4,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+8,36,229408,3,C-3,Conifer,7,7,1,C-1,Conifer,7,7,0,0
+8,37,4307,625,M-1/M-2 (25 PC),Mixed,5,3,7,C-7,Conifer,4,3,1,0
+8,38,20437,5,C-5,Conifer,3,2,1,C-1,Conifer,7,7,-4,-5
+8,39,3617,675,M-1/M-2 (75 PC),Mixed,8,8,7,C-7,Conifer,4,3,4,5
+8,40,49342,13,D-1/D-2,Deciduous,3,1,1,C-1,Conifer,7,7,-4,-6
+8,41,1055,31,O-1a,Open,8,2,1,C-1,Conifer,7,7,1,-5
+8,42,6691,2,C-2,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+8,43,916,675,M-1/M-2 (75 PC),Mixed,8,8,1,C-1,Conifer,7,7,1,1
+8,44,1515,675,M-1/M-2 (75 PC),Mixed,8,8,13,D-1/D-2,Deciduous,3,1,5,7
+8,45,2380,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+8,46,10201,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+8,47,11125,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+8,48,3332,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+8,49,291606,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+8,50,386,101,NF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+8,51,150,415,M-1 (15 PC),Mixed,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+8,52,221,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+8,53,267,625,M-1/M-2 (25 PC),Mixed,5,3,1,C-1,Conifer,7,7,-2,-4
+8,54,1545,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+8,55,358,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+8,56,189,415,M-1 (15 PC),Mixed,3,3,1,C-1,Conifer,7,7,-4,-4
+8,57,2352,650,M-1/M-2 (50 PC),Mixed,7,6,7,C-7,Conifer,4,3,3,3
+8,58,36321,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+8,59,920,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+8,60,846,415,M-1 (15 PC),Mixed,3,3,101,NF,NonFuel,0,0,3,3
+8,61,312,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+8,62,26,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+8,63,2186,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+8,64,738,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+8,65,493,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+8,66,2030,11,D-1,Deciduous,3,3,7,C-7,Conifer,4,3,-1,0
+8,67,503,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+8,68,3124,7,C-7,Conifer,4,3,13,D-1/D-2,Deciduous,3,1,1,2
+8,69,16,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+8,70,42317,7,C-7,Conifer,4,3,7,C-7,Conifer,4,3,0,0
+8,71,1302,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+8,72,98,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+8,73,111793,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+8,74,233,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+8,75,42,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+8,76,8085,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+8,77,112,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+8,78,1665,7,C-7,Conifer,4,3,100,NA,NonFuel,0,0,4,3
+8,79,7024,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+8,80,9622,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+8,81,8434,7,C-7,Conifer,4,3,101,NF,NonFuel,0,0,4,3
+8,82,25290,7,C-7,Conifer,4,3,33,O-1a/O-1b,Open,8,2,-4,1
+8,83,2468,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+8,84,817,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+8,85,978,7,C-7,Conifer,4,3,102,Water,NonFuel,0,0,4,3
+8,86,30244,105,VNF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+8,87,35800,105,VNF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+8,88,25861,105,VNF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+8,89,2242,105,VNF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+8,90,114,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+8,91,4933,105,VNF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+8,92,1030,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+8,93,407,105,VNF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+8,94,72,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+8,95,51,102,Water,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+8,96,42,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+8,97,8032,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+8,98,27503,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+8,99,76162,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+8,100,3687,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+8,101,1942,7,C-7,Conifer,4,3,105,VNF,NonFuel,0,0,4,3
+8,102,576,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+8,103,623,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+8,104,13,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+8,105,477,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+8,106,8,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+8,107,65,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+8,108,42,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+8,109,30,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+8,110,15,650,M-1/M-2 (50 PC),Mixed,7,6,1,C-1,Conifer,7,7,0,-1
+8,111,107,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+8,112,889,7,C-7,Conifer,4,3,1,C-1,Conifer,7,7,-3,-4
+8,113,19,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+8,114,142,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+8,115,202,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+8,116,3256,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+8,117,2582,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+8,118,1582,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+8,119,4100,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+8,120,182,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+8,121,365,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+8,122,478,7,C-7,Conifer,4,3,60,M-1/M-2,Mixed,7,6,-3,-3
+8,123,96,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+8,124,15,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+8,125,144,105,VNF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+8,126,106,105,VNF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+8,127,2,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+10,1,748084,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+10,2,275876,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+10,3,5851,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+10,4,16589,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+10,5,9928,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+10,6,29544,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+10,7,63297,101,NF,NonFuel,0,0,12,D-2,Deciduous,1,1,-1,-1
+10,8,19568,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+10,9,275101,5,C-5,Conifer,3,2,12,D-2,Deciduous,1,1,2,1
+10,10,26813,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+10,11,65065,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+10,12,6165,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+10,13,122434,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+10,14,16150,7,C-7,Conifer,4,3,100,NA,NonFuel,0,0,4,3
+10,15,3770,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+10,16,16037,7,C-7,Conifer,4,3,102,Water,NonFuel,0,0,4,3
+10,17,142636,101,NF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+10,18,108135,7,C-7,Conifer,4,3,12,D-2,Deciduous,1,1,3,2
+10,19,1398072,5,C-5,Conifer,3,2,7,C-7,Conifer,4,3,-1,-1
+10,20,27542,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+10,21,7843,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+10,22,196024,7,C-7,Conifer,4,3,7,C-7,Conifer,4,3,0,0
+10,23,10471,7,C-7,Conifer,4,3,105,VNF,NonFuel,0,0,4,3
+10,24,229258,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+10,25,623909,3,C-3,Conifer,7,7,12,D-2,Deciduous,1,1,6,6
+10,26,9167,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+10,27,329555,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+10,28,3320,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+10,29,33093,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+10,30,570207,13,D-1/D-2,Deciduous,3,1,7,C-7,Conifer,4,3,-1,-2
+10,31,11384,102,Water,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+10,32,8393586,3,C-3,Conifer,7,7,7,C-7,Conifer,4,3,3,4
+10,33,36643,650,M-1/M-2 (50 PC),Mixed,7,6,12,D-2,Deciduous,1,1,6,5
+10,34,3205,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+10,35,254102,7,C-7,Conifer,4,3,33,O-1a/O-1b,Open,8,2,-4,1
+10,36,122027,650,M-1/M-2 (50 PC),Mixed,7,6,7,C-7,Conifer,4,3,3,3
+10,37,28212,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+10,38,112432,31,O-1a,Open,8,2,7,C-7,Conifer,4,3,4,-1
+10,39,51462,31,O-1a,Open,8,2,12,D-2,Deciduous,1,1,7,1
+10,40,57769,13,D-1/D-2,Deciduous,3,1,12,D-2,Deciduous,1,1,2,0
+10,41,202423,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+10,42,123254,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+10,43,64498,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+10,44,576,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+10,45,198849,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+10,46,99755,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+10,47,9509,7,C-7,Conifer,4,3,101,NF,NonFuel,0,0,4,3
+10,48,8523,11,D-1,Deciduous,3,3,12,D-2,Deciduous,1,1,2,2
+10,49,687986,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+10,50,1423,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+10,51,7229,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+10,52,248967,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+10,53,3378,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+10,54,154,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+10,55,430,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+10,56,11406,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+10,57,10284,11,D-1,Deciduous,3,3,7,C-7,Conifer,4,3,-1,0
+10,58,1191613,4,C-4,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+10,59,237408,625,M-1/M-2 (25 PC),Mixed,5,3,7,C-7,Conifer,4,3,1,0
+10,60,44902,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+10,61,2309912,2,C-2,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+10,62,288235,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+10,63,196539,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+10,64,295339,675,M-1/M-2 (75 PC),Mixed,8,8,7,C-7,Conifer,4,3,4,5
+10,65,23793,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+10,66,10101,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+10,67,1212,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+10,68,83824,625,M-1/M-2 (25 PC),Mixed,5,3,12,D-2,Deciduous,1,1,4,2
+10,69,307432,4,C-4,Conifer,10,10,12,D-2,Deciduous,1,1,9,9
+10,70,198282,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+10,71,112337,675,M-1/M-2 (75 PC),Mixed,8,8,12,D-2,Deciduous,1,1,7,7
+10,72,42442,2,C-2,Conifer,10,10,12,D-2,Deciduous,1,1,9,9
+10,73,5110,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+10,74,686058,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+10,75,344490,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+10,76,212048,415,M-1 (15 PC),Mixed,3,3,101,NF,NonFuel,0,0,3,3
+10,77,29864,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+10,78,226202,415,M-1 (15 PC),Mixed,3,3,7,C-7,Conifer,4,3,-1,0
+10,79,31671,415,M-1 (15 PC),Mixed,3,3,12,D-2,Deciduous,1,1,2,2
+10,80,2403,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+10,81,975,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+10,82,17416,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+10,83,430091,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+10,84,258461,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+10,85,634294,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+10,86,11830,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+10,87,3535,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+10,88,920362,4,C-4,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+10,89,5454731,3,C-3,Conifer,7,7,1,C-1,Conifer,7,7,0,0
+10,90,173026,5,C-5,Conifer,3,2,1,C-1,Conifer,7,7,-4,-5
+10,91,43451,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+10,92,341274,675,M-1/M-2 (75 PC),Mixed,8,8,1,C-1,Conifer,7,7,1,1
+10,93,125089,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+10,94,226153,415,M-1 (15 PC),Mixed,3,3,1,C-1,Conifer,7,7,-4,-4
+10,95,78318,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+10,96,1678919,2,C-2,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+10,97,75153,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+10,98,7836,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+10,99,80665,625,M-1/M-2 (25 PC),Mixed,5,3,1,C-1,Conifer,7,7,-2,-4
+10,100,400225,13,D-1/D-2,Deciduous,3,1,1,C-1,Conifer,7,7,-4,-6
+10,101,7218,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+10,102,4162,415,M-1 (15 PC),Mixed,3,3,100,NA,NonFuel,0,0,3,3
+10,103,47122,31,O-1a,Open,8,2,1,C-1,Conifer,7,7,1,-5
+10,104,5333,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+10,105,2479,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+10,106,4490,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+10,107,16259,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+10,108,2877,415,M-1 (15 PC),Mixed,3,3,102,Water,NonFuel,0,0,3,3
+10,109,596,102,Water,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+10,110,60616,101,NF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+10,111,2178,102,Water,NonFuel,0,0,12,D-2,Deciduous,1,1,-1,-1
+10,112,56725,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+10,113,3267,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+10,114,861,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+10,115,2055,650,M-1/M-2 (50 PC),Mixed,7,6,1,C-1,Conifer,7,7,0,-1
+10,116,3576,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+10,117,4172,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+10,118,1620,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+10,119,267,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+10,120,6723,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+10,121,3122,7,C-7,Conifer,4,3,60,M-1/M-2,Mixed,7,6,-3,-3
+10,122,3154,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+10,123,561,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+10,124,465,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+10,125,8,7,C-7,Conifer,4,3,1,C-1,Conifer,7,7,-3,-4
+10,126,38727,105,VNF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+10,127,23906,105,VNF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+10,128,43098,105,VNF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+10,129,5187,105,VNF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+10,130,5831,105,VNF,NonFuel,0,0,12,D-2,Deciduous,1,1,-1,-1
+10,131,13,11,D-1,Deciduous,3,3,1,C-1,Conifer,7,7,-4,-4
+10,132,1166,105,VNF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+10,133,613,105,VNF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+10,134,111,105,VNF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+10,135,933,105,VNF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+19,1,475587,2,C-2,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+19,2,828822,3,C-3,Conifer,7,7,1,C-1,Conifer,7,7,0,0
+19,3,70170,675,M-1/M-2 (75 PC),Mixed,8,8,1,C-1,Conifer,7,7,1,1
+19,4,268362,4,C-4,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+19,5,138303,415,M-1 (15 PC),Mixed,3,3,1,C-1,Conifer,7,7,-4,-4
+19,6,110932,4,C-4,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+19,7,18858,625,M-1/M-2 (25 PC),Mixed,5,3,1,C-1,Conifer,7,7,-2,-4
+19,8,142713,2,C-2,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+19,9,263510,3,C-3,Conifer,7,7,7,C-7,Conifer,4,3,3,4
+19,10,15116,4,C-4,Conifer,10,10,31,O-1a,Open,8,2,2,8
+19,11,101167,675,M-1/M-2 (75 PC),Mixed,8,8,7,C-7,Conifer,4,3,4,5
+19,12,9743,3,C-3,Conifer,7,7,31,O-1a,Open,8,2,-1,5
+19,13,111913,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+19,14,2016,2,C-2,Conifer,10,10,31,O-1a,Open,8,2,2,8
+19,15,28854,13,D-1/D-2,Deciduous,3,1,1,C-1,Conifer,7,7,-4,-6
+19,16,172896,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+19,17,127561,415,M-1 (15 PC),Mixed,3,3,7,C-7,Conifer,4,3,-1,0
+19,18,179603,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+19,19,101675,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+19,20,58342,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+19,21,171259,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+19,22,70378,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+19,23,28757,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+19,24,31583,675,M-1/M-2 (75 PC),Mixed,8,8,31,O-1a,Open,8,2,0,6
+19,25,22446,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+19,26,445228,415,M-1 (15 PC),Mixed,3,3,101,NF,NonFuel,0,0,3,3
+19,27,1124537,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+19,28,27965,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+19,29,4305,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+19,30,59799,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+19,31,30909,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+19,32,30624,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+19,33,6887,415,M-1 (15 PC),Mixed,3,3,31,O-1a,Open,8,2,-5,1
+19,34,28005,625,M-1/M-2 (25 PC),Mixed,5,3,7,C-7,Conifer,4,3,1,0
+19,35,18875,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+19,36,235,31,O-1a,Open,8,2,1,C-1,Conifer,7,7,1,-5
+19,37,665,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+19,38,6316,101,NF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+19,39,3923,101,NF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+19,40,49854,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+19,41,32232,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+19,42,6945,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+19,43,2434,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+19,44,11455,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+19,45,19223,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+19,46,101191,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+19,47,7594,415,M-1 (15 PC),Mixed,3,3,102,Water,NonFuel,0,0,3,3
+19,48,1104,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+19,49,375,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+19,50,129308,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+19,51,2013,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+19,52,1223,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+19,53,3015,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+19,54,3536,415,M-1 (15 PC),Mixed,3,3,100,NA,NonFuel,0,0,3,3
+19,55,9700,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+19,56,18966,13,D-1/D-2,Deciduous,3,1,7,C-7,Conifer,4,3,-1,-2
+19,57,4039,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+19,58,1906,31,O-1a,Open,8,2,7,C-7,Conifer,4,3,4,-1
+19,59,9793,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+19,60,1450,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+19,61,61,102,Water,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+19,62,22960,5,C-5,Conifer,3,2,1,C-1,Conifer,7,7,-4,-5
+19,63,7889,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+19,64,181511,4,C-4,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+19,65,185711,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+19,66,27524,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+19,67,649,625,M-1/M-2 (25 PC),Mixed,5,3,31,O-1a,Open,8,2,-3,1
+19,68,35306,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+19,69,98503,675,M-1/M-2 (75 PC),Mixed,8,8,13,D-1/D-2,Deciduous,3,1,5,7
+19,70,1796,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+19,71,17484,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+19,72,7225,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+19,73,2084,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+19,74,1523,650,M-1/M-2 (50 PC),Mixed,7,6,1,C-1,Conifer,7,7,0,-1
+19,75,18643,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+19,76,91,101,NF,NonFuel,0,0,31,O-1a,Open,8,2,-8,-2
+19,77,124534,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+19,78,251819,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+19,79,30910,415,M-1 (15 PC),Mixed,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+19,80,100787,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+19,81,30006,5,C-5,Conifer,3,2,7,C-7,Conifer,4,3,-1,-1
+19,82,611718,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+19,83,44722,5,C-5,Conifer,3,2,13,D-1/D-2,Deciduous,3,1,0,1
+19,84,41,7,C-7,Conifer,4,3,1,C-1,Conifer,7,7,-3,-4
+19,85,1896,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+19,86,12029,7,C-7,Conifer,4,3,33,O-1a/O-1b,Open,8,2,-4,1
+19,87,5633,7,C-7,Conifer,4,3,13,D-1/D-2,Deciduous,3,1,1,2
+19,88,16799,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+19,89,5056,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+19,90,3447,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+19,91,3739,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+19,92,2150,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+19,93,75910,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+19,94,124702,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+19,95,5001,650,M-1/M-2 (50 PC),Mixed,7,6,7,C-7,Conifer,4,3,3,3
+19,96,73303,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+19,97,8935,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+19,98,23493,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+19,99,24771,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+19,100,1369,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+19,101,11658,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+19,102,459812,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+19,103,3306,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+19,104,748,7,C-7,Conifer,4,3,7,C-7,Conifer,4,3,0,0
+19,105,8421,7,C-7,Conifer,4,3,105,VNF,NonFuel,0,0,4,3
+19,106,2249170,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+19,107,97530,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+19,108,3316,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+19,109,38414,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+19,110,44211,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+19,111,3778,11,D-1,Deciduous,3,3,7,C-7,Conifer,4,3,-1,0
+19,112,8054,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+19,113,360,7,C-7,Conifer,4,3,60,M-1/M-2,Mixed,7,6,-3,-3
+19,114,4384,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+19,115,1808,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+19,116,7812,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+19,117,22583,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+19,118,7881,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+19,119,1113,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+19,120,1699,7,C-7,Conifer,4,3,102,Water,NonFuel,0,0,4,3
+19,121,1208,11,D-1,Deciduous,3,3,1,C-1,Conifer,7,7,-4,-4
+19,122,1209,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+19,123,833,7,C-7,Conifer,4,3,100,NA,NonFuel,0,0,4,3
+19,124,3713,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+19,125,13512,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+19,126,695,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+19,127,615,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+19,128,201,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+19,129,1907,102,Water,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+19,130,16654,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+19,131,334,7,C-7,Conifer,4,3,101,NF,NonFuel,0,0,4,3
+19,132,1346,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+19,133,233,13,D-1/D-2,Deciduous,3,1,31,O-1a,Open,8,2,-5,-1
+19,134,1,5,C-5,Conifer,3,2,31,O-1a,Open,8,2,-5,0
+19,135,35013,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+19,136,22,31,O-1a,Open,8,2,31,O-1a,Open,8,2,0,0
+19,137,1542,105,VNF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+19,138,1,105,VNF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+19,139,19,105,VNF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+19,140,46,105,VNF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+20,1,22018638,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+20,2,889895,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+20,3,378316,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+20,4,17212280,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+20,5,536416,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+20,6,264996,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+20,7,81559,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+20,8,569516,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+20,9,163128,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+20,10,377198,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+20,11,421180,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+20,12,158504,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+20,13,1826991,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+20,14,1313353,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+20,15,227038,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+20,16,26145,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+20,17,7492,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+20,18,25030,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+20,19,28823,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+20,20,101883,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+20,21,67,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+20,22,4317,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+20,23,531,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+20,24,96163,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+20,25,50031,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+20,26,368674,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+20,27,91124,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+20,28,13394,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+20,29,4097,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+20,30,1509,102,Water,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+20,31,6453,31,O-1a,Open,8,2,7,C-7,Conifer,4,3,4,-1
+20,32,127,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+20,33,27284,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+20,34,7901,13,D-1/D-2,Deciduous,3,1,7,C-7,Conifer,4,3,-1,-2
+20,35,248,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+20,36,6497,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+20,37,9756,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+20,38,29,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+20,39,41,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+20,40,972,101,NF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+20,41,4071,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+20,42,1241,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+20,43,29,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+20,44,162,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+20,45,422,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+20,46,55444,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+20,47,50,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+20,48,779,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+20,49,208,7,C-7,Conifer,4,3,105,VNF,NonFuel,0,0,4,3
+20,50,35,7,C-7,Conifer,4,3,101,NF,NonFuel,0,0,4,3
+20,51,568,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+20,52,517,7,C-7,Conifer,4,3,33,O-1a/O-1b,Open,8,2,-4,1
+20,53,65,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+20,54,1575,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+20,55,11,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+20,56,2295,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+20,57,1330,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+20,58,107,7,C-7,Conifer,4,3,102,Water,NonFuel,0,0,4,3
+20,59,136,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+20,60,10240,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+20,61,56,7,C-7,Conifer,4,3,60,M-1/M-2,Mixed,7,6,-3,-3
+20,62,3918,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+20,63,31,7,C-7,Conifer,4,3,100,NA,NonFuel,0,0,4,3
+20,64,332,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+20,65,611,650,M-1/M-2 (50 PC),Mixed,7,6,7,C-7,Conifer,4,3,3,3
+20,66,1711,11,D-1,Deciduous,3,3,7,C-7,Conifer,4,3,-1,0
+20,67,170,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+20,68,25,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+20,69,68860,3,C-3,Conifer,7,7,7,C-7,Conifer,4,3,3,4
+20,70,107633,4,C-4,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+20,71,2,7,C-7,Conifer,4,3,7,C-7,Conifer,4,3,0,0
+20,72,74,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+20,73,186,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+20,74,1,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+20,75,48,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+20,76,7,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+20,77,2,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+20,78,689273,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+20,79,46136,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+20,80,139,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+20,81,865,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+20,82,60,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+20,83,14656,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+20,84,1427,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+20,85,23040,4,C-4,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+20,86,646,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+20,87,3900,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+20,88,748,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+20,89,367,675,M-1/M-2 (75 PC),Mixed,8,8,13,D-1/D-2,Deciduous,3,1,5,7
+20,90,3147,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+20,91,10784,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+20,92,2226,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+20,93,1033,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+20,94,118,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+20,95,4648,2,C-2,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+20,96,1966,675,M-1/M-2 (75 PC),Mixed,8,8,7,C-7,Conifer,4,3,4,5
+20,97,1139,4,C-4,Conifer,10,10,4,C-4,Conifer,10,10,0,0
+20,98,33,11,D-1,Deciduous,3,3,4,C-4,Conifer,10,10,-7,-7
+20,99,29,101,NF,NonFuel,0,0,4,C-4,Conifer,10,10,-10,-10
+20,100,87,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+20,101,21,102,Water,NonFuel,0,0,4,C-4,Conifer,10,10,-10,-10
+20,102,36,31,O-1a,Open,8,2,4,C-4,Conifer,10,10,-2,-8
+20,103,6,675,M-1/M-2 (75 PC),Mixed,8,8,4,C-4,Conifer,10,10,-2,-2
+20,104,4113,3,C-3,Conifer,7,7,4,C-4,Conifer,10,10,-3,-3
+20,105,35,2,C-2,Conifer,10,10,4,C-4,Conifer,10,10,0,0
+20,106,54,13,D-1/D-2,Deciduous,3,1,4,C-4,Conifer,10,10,-7,-9
+20,107,6,625,M-1/M-2 (25 PC),Mixed,5,3,7,C-7,Conifer,4,3,1,0
+20,108,5,7,C-7,Conifer,4,3,13,D-1/D-2,Deciduous,3,1,1,2
+20,109,13,650,M-1/M-2 (50 PC),Mixed,7,6,4,C-4,Conifer,10,10,-3,-4
+20,110,8,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+20,111,4,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+30,1,580816,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+30,2,368826,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+30,3,13789681,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+30,4,212310,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+30,5,238925,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+30,6,21469,31,O-1a,Open,8,2,7,C-7,Conifer,4,3,4,-1
+30,7,295078,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+30,8,70974,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+30,9,2630,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+30,10,85831,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+30,11,43220,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+30,12,3928,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+30,13,41943,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+30,14,2346,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+30,15,17259,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+30,16,3831,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+30,17,1203528,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+30,18,11853,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+30,19,42348,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+30,20,448002,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+30,21,16029,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+30,22,64483,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+30,23,43516,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+30,24,27243,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+30,25,67796,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+30,26,4474,102,Water,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+30,27,2084,101,NF,NonFuel,0,0,7,C-7,Conifer,4,3,-4,-3
+30,28,3417922,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+30,29,5823,13,D-1/D-2,Deciduous,3,1,7,C-7,Conifer,4,3,-1,-2
+30,30,96,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+30,31,528,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+30,32,5125,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+30,33,16731,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+30,34,4779,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+30,35,160,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+30,36,560,11,D-1,Deciduous,3,3,7,C-7,Conifer,4,3,-1,0
+30,37,12,4,C-4,Conifer,10,10,7,C-7,Conifer,4,3,6,7
+30,38,9,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+30,39,22,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+30,40,5,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+30,41,4,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+30,42,12,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+30,43,1,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+30,44,1,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+40,1,38302830,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+40,2,1081208,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+40,3,992421,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+40,4,633236,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+40,5,770336,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+40,6,39850,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+40,7,332534,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+40,8,3188469,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+40,9,247068,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+40,10,877251,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+40,11,993625,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+40,12,303843,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+40,13,78067,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+40,14,707031,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+40,15,42381,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+40,16,112611,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+40,17,203014,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+40,18,1502824,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+40,19,39779,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+40,20,35736,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+40,21,1302682,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+40,22,8459,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+40,23,1032311,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+40,24,30598,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+40,25,580824,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+40,26,10772,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+40,27,28927,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+40,28,60400,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+40,29,3280752,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+40,30,24145,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+40,31,29614,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+40,32,1375,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+40,33,697,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+40,34,2321,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+40,35,12233,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+40,36,3179,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+40,37,735193,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+40,38,342922,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+40,39,443633,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+40,40,306037,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+40,41,59370,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+40,42,787665,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+40,43,350985,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+40,44,33073,675,M-1/M-2 (75 PC),Mixed,8,8,13,D-1/D-2,Deciduous,3,1,5,7
+40,45,250719,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+40,46,119406,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+40,47,504539,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+40,48,3912,4,C-4,Conifer,10,10,2,C-2,Conifer,10,10,0,0
+40,49,2047,675,M-1/M-2 (75 PC),Mixed,8,8,2,C-2,Conifer,10,10,-2,-2
+40,50,31806,3,C-3,Conifer,7,7,2,C-2,Conifer,10,10,-3,-3
+40,51,172911,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+40,52,55215,650,M-1/M-2 (50 PC),Mixed,7,6,2,C-2,Conifer,10,10,-3,-4
+40,53,43578,2,C-2,Conifer,10,10,2,C-2,Conifer,10,10,0,0
+40,54,54745,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+40,55,592668,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+40,56,2073,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+40,57,1425,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+40,58,2798,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+40,59,7357,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+40,60,7197,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+40,61,8893,11,D-1,Deciduous,3,3,2,C-2,Conifer,10,10,-7,-7
+40,62,61869,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+40,63,19896,4,C-4,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+40,64,49399,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+40,65,5495,625,M-1/M-2 (25 PC),Mixed,5,3,2,C-2,Conifer,10,10,-5,-7
+40,66,6670,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+40,67,7283,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+40,68,844,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+40,69,7823,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+40,70,12036,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+40,71,13584,31,O-1a,Open,8,2,2,C-2,Conifer,10,10,-2,-8
+40,72,20762,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+40,73,233230,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+40,74,129320,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+40,75,1062,102,Water,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+40,76,2092,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+40,77,2969,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+40,78,3567,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+40,79,2494,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+40,80,5534,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+40,81,1124,101,NF,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+40,82,6743,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+40,83,1923,415,M-1 (15 PC),Mixed,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+40,84,6987,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+40,85,412,415,M-1 (15 PC),Mixed,3,3,102,Water,NonFuel,0,0,3,3
+40,86,303,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+40,87,5643,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+40,88,282,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+40,89,16,415,M-1 (15 PC),Mixed,3,3,100,NA,NonFuel,0,0,3,3
+40,90,5,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+40,91,2914,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+40,92,202,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+40,93,6,105,VNF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+40,94,8799,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+40,95,807,13,D-1/D-2,Deciduous,3,1,2,C-2,Conifer,10,10,-7,-9
+40,96,309,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+40,97,8523,105,VNF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+40,98,1045,105,VNF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+40,99,214,105,VNF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+40,100,64,105,VNF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+40,101,40,105,VNF,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+40,102,16,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+40,103,139,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+40,104,3,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+40,105,10,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+41,1,4907019,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+41,2,592297,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+41,3,1085908,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+41,4,715156,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+41,5,16142847,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+41,6,584653,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+41,7,96852,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+41,8,3703780,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+41,9,1455566,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+41,10,2082012,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+41,11,520914,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+41,12,154622,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+41,13,3048850,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+41,14,1713708,4,C-4,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+41,15,202102,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+41,16,1291023,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+41,17,182948,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+41,18,103969,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+41,19,1270787,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+41,20,469785,4,C-4,Conifer,10,10,2,C-2,Conifer,10,10,0,0
+41,21,1482337,3,C-3,Conifer,7,7,2,C-2,Conifer,10,10,-3,-3
+41,22,6523236,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+41,23,2803535,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+41,24,805222,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+41,25,412260,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+41,26,4890293,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+41,27,382277,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+41,28,215353,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+41,29,37928,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+41,30,29996,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+41,31,712779,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+41,32,70736,11,D-1,Deciduous,3,3,2,C-2,Conifer,10,10,-7,-7
+41,33,9857,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+41,34,1123227,675,M-1/M-2 (75 PC),Mixed,8,8,13,D-1/D-2,Deciduous,3,1,5,7
+41,35,49376,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+41,36,18739,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+41,37,10086,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+41,38,361872,650,M-1/M-2 (50 PC),Mixed,7,6,2,C-2,Conifer,10,10,-3,-4
+41,39,164106,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+41,40,1203625,2,C-2,Conifer,10,10,2,C-2,Conifer,10,10,0,0
+41,41,7702,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+41,42,220398,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+41,43,265317,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+41,44,64940,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+41,45,64192,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+41,46,12880,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+41,47,112119,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+41,48,212540,31,O-1a,Open,8,2,2,C-2,Conifer,10,10,-2,-8
+41,49,44342,625,M-1/M-2 (25 PC),Mixed,5,3,2,C-2,Conifer,10,10,-5,-7
+41,50,819981,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+41,51,6795,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+41,52,27713,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+41,53,20395,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+41,54,53994,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+41,55,713535,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+41,56,84423,102,Water,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+41,57,247190,13,D-1/D-2,Deciduous,3,1,2,C-2,Conifer,10,10,-7,-9
+41,58,86208,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+41,59,150400,675,M-1/M-2 (75 PC),Mixed,8,8,2,C-2,Conifer,10,10,-2,-2
+41,60,1232,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+41,61,303007,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+41,62,3492,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+41,63,14970,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+41,64,18514,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+41,65,86966,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+41,66,29032,101,NF,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+41,67,61471,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+41,68,283828,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+41,69,150293,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+41,70,91142,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+41,71,32120,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+41,72,109945,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+41,73,85321,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+41,74,19057,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+41,75,58,105,VNF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+41,76,675,105,VNF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+41,77,484,105,VNF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+41,78,36,105,VNF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+41,79,76426,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+41,80,14047,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+41,81,38330,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+41,82,25571,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+41,83,579,105,VNF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+41,84,164,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+41,85,87,415,M-1 (15 PC),Mixed,3,3,2,C-2,Conifer,10,10,-7,-7
+41,86,119,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+41,87,16,415,M-1 (15 PC),Mixed,3,3,100,NA,NonFuel,0,0,3,3
+41,88,113,415,M-1 (15 PC),Mixed,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+41,89,2360,5,C-5,Conifer,3,2,2,C-2,Conifer,10,10,-7,-8
+41,90,43,105,VNF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+41,91,2172,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+41,92,16,415,M-1 (15 PC),Mixed,3,3,101,NF,NonFuel,0,0,3,3
+41,93,21142,5,C-5,Conifer,3,2,13,D-1/D-2,Deciduous,3,1,0,1
+41,94,1560,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+41,95,212,415,M-1 (15 PC),Mixed,3,3,102,Water,NonFuel,0,0,3,3
+41,96,17909,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+41,97,51887,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+41,98,12367,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+41,99,664258,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+41,100,174999,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+41,101,11671,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+41,102,30093,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+41,103,234489,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+41,104,32884,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+41,105,59513,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+41,106,6,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+41,107,651,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+41,108,562,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+41,109,1362,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+41,110,9,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+41,111,93,105,VNF,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+51,1,53431735,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+51,2,330249,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+51,3,244122,3,C-3,Conifer,7,7,3,C-3,Conifer,7,7,0,0
+51,4,55115,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+51,5,733993,2,C-2,Conifer,10,10,3,C-3,Conifer,7,7,3,3
+51,6,3002169,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+51,7,1607842,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+51,8,519905,675,M-1/M-2 (75 PC),Mixed,8,8,13,D-1/D-2,Deciduous,3,1,5,7
+51,9,885161,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+51,10,606390,650,M-1/M-2 (50 PC),Mixed,7,6,3,C-3,Conifer,7,7,0,-1
+51,11,3947226,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+51,12,112039,4,C-4,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+51,13,156502,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+51,14,53789,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+51,15,51920,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+51,16,1087339,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+51,17,460446,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+51,18,7092568,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+51,19,225780,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+51,20,371712,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+51,21,249804,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+51,22,59149,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+51,23,69567,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+51,24,780434,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+51,25,19966,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+51,26,18319,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+51,27,161298,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+51,28,136494,31,O-1a,Open,8,2,3,C-3,Conifer,7,7,1,-5
+51,29,29565,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+51,30,58853,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+51,31,131067,675,M-1/M-2 (75 PC),Mixed,8,8,3,C-3,Conifer,7,7,1,1
+51,32,11051,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+51,33,44037,102,Water,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+51,34,26946,13,D-1/D-2,Deciduous,3,1,3,C-3,Conifer,7,7,-4,-6
+51,35,46219,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+51,36,34,415,M-1 (15 PC),Mixed,3,3,102,Water,NonFuel,0,0,3,3
+51,37,17314,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+51,38,22132,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+51,39,68499,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+51,40,78794,4,C-4,Conifer,10,10,3,C-3,Conifer,7,7,3,3
+51,41,60321,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+51,42,40156,625,M-1/M-2 (25 PC),Mixed,5,3,3,C-3,Conifer,7,7,-2,-4
+51,43,40571,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+51,44,407030,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+51,45,208976,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+51,46,27389,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+51,47,32933,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+51,48,29321,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+51,49,111961,11,D-1,Deciduous,3,3,3,C-3,Conifer,7,7,-4,-4
+51,50,15755,101,NF,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+51,51,11554,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+51,52,39592,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+51,53,37987,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+51,54,34143,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+51,55,113213,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+51,56,800797,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+51,57,7653,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+51,58,10547,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+51,59,2,415,M-1 (15 PC),Mixed,3,3,100,NA,NonFuel,0,0,3,3
+51,60,26251,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+51,61,34,415,M-1 (15 PC),Mixed,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+51,62,11225,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+51,63,66764,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+51,64,27353,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+51,65,4773,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+51,66,9266,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+51,67,220006,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+51,68,180894,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+51,69,11226,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+51,70,35336,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+51,71,24760,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+51,72,4471,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+51,73,3949,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+51,74,1117,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+51,75,2181,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+51,76,841,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+51,77,3733,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+51,78,195,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+51,79,1899,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+51,80,133210,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+51,81,9263,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+51,82,36220,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+51,83,650756,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+51,84,49312,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+51,85,6554,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+51,86,63400,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+51,87,9813,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+51,88,7,415,M-1 (15 PC),Mixed,3,3,3,C-3,Conifer,7,7,-4,-4
+51,89,441842,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+51,90,10036027,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+51,91,2503,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+51,92,700,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+51,93,273269,5,C-5,Conifer,3,2,13,D-1/D-2,Deciduous,3,1,0,1
+51,94,37,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+51,95,151842,5,C-5,Conifer,3,2,3,C-3,Conifer,7,7,-4,-5
+51,96,9378,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+51,97,5308,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+51,98,27973,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+51,99,4224,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+51,100,62,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+51,101,13610,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+51,102,3888,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+51,103,1,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+52,1,623502,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+52,2,50912,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+52,3,15521,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+52,4,47072,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+52,5,1762,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+52,6,2117,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+52,7,23876,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+52,8,337,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+52,9,117,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+52,10,3507,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+52,11,73,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+52,12,43,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+52,13,4780,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+52,14,11266,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+52,15,1676863,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+52,16,828,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+52,17,82,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+52,18,17,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+52,19,1125,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+52,20,1486,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+52,21,126,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+52,22,65,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+52,23,47,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+52,24,100,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+52,25,1523,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+52,26,4849,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+52,27,225,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+52,28,1068,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+52,29,26,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+52,30,53,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+52,31,146,31,O-1a,Open,8,2,6,C-6,Conifer,5,5,3,-3
+52,32,104,102,Water,NonFuel,0,0,6,C-6,Conifer,5,5,-5,-5
+52,33,184,101,NF,NonFuel,0,0,6,C-6,Conifer,5,5,-5,-5
+52,34,1,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+52,35,45,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+52,36,1,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+52,37,5,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+52,38,2,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+52,39,89,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+52,40,10,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+52,41,2,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+52,42,20,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+52,43,570,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+52,44,51,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+52,45,13,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+52,46,7,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+52,47,7,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+52,48,3,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+52,49,16,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+52,50,2,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+52,51,7,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+52,52,2,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+52,53,2,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+52,54,1,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+52,55,1,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+52,56,1,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+52,57,427,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+52,58,1,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+52,59,4,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+52,60,10,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+52,61,6,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+52,62,5,13,D-1/D-2,Deciduous,3,1,6,C-6,Conifer,5,5,-2,-4
+52,63,3,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+52,64,142,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+52,65,3,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+52,66,1,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+62,1,29246,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+62,2,336579,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+62,3,247990,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+62,4,6319198,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+62,5,7450,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+62,6,246118,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+62,7,86351,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+62,8,233530,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+62,9,511323,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+62,10,162631,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+62,11,7643,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+62,12,16849,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+62,13,4768,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+62,14,22291,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+62,15,725,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+62,16,32970,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+62,17,1772,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+62,18,3563,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+62,19,1279,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+62,20,1147,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+62,21,8137,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+62,22,12192,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+62,23,1172,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+62,24,20024,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+62,25,19121,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+62,26,125,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+62,27,3622,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+62,28,1639,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+62,29,78,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+62,30,4199,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+62,31,2432,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+62,32,2885,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+62,33,7530,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+62,34,1217,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+62,35,6,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+62,36,153,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+62,37,9066,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+62,38,20456,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+62,39,2281,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+62,40,8872687,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+62,41,2946,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+62,42,943,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+62,43,96,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+62,44,146,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+62,45,1656,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+62,46,7,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+62,47,1047,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+62,48,4835,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+62,49,1349,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+62,50,66,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+62,51,111,4,C-4,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+62,52,22,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+62,53,10642,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+62,54,614,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+62,55,379,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+62,56,440,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+62,57,1335,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+62,58,966,102,Water,NonFuel,0,0,6,C-6,Conifer,5,5,-5,-5
+62,59,439,11,D-1,Deciduous,3,3,6,C-6,Conifer,5,5,-2,-2
+62,60,35,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+62,61,3,5,C-5,Conifer,3,2,13,D-1/D-2,Deciduous,3,1,0,1
+62,62,61,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+62,63,129,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+62,64,225,2,C-2,Conifer,10,10,6,C-6,Conifer,5,5,5,5
+62,65,832,650,M-1/M-2 (50 PC),Mixed,7,6,6,C-6,Conifer,5,5,2,1
+62,66,4258,13,D-1/D-2,Deciduous,3,1,6,C-6,Conifer,5,5,-2,-4
+62,67,150,4,C-4,Conifer,10,10,6,C-6,Conifer,5,5,5,5
+62,68,2406,31,O-1a,Open,8,2,6,C-6,Conifer,5,5,3,-3
+62,69,61,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+62,70,96,625,M-1/M-2 (25 PC),Mixed,5,3,6,C-6,Conifer,5,5,0,-2
+62,71,168,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+62,72,7,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+62,73,12,675,M-1/M-2 (75 PC),Mixed,8,8,13,D-1/D-2,Deciduous,3,1,5,7
+62,74,23,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+62,75,21,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+62,76,2208,101,NF,NonFuel,0,0,6,C-6,Conifer,5,5,-5,-5
+62,77,29,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+62,78,121,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+62,79,142,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+62,80,10,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+62,81,38,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+62,82,3,5,C-5,Conifer,3,2,6,C-6,Conifer,5,5,-2,-3
+62,83,7,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+62,84,6,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+62,85,16,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+62,86,11,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+62,87,4,675,M-1/M-2 (75 PC),Mixed,8,8,6,C-6,Conifer,5,5,3,3
+62,88,7,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+62,89,1,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+62,90,1,3,C-3,Conifer,7,7,6,C-6,Conifer,5,5,2,2
+63,1,33164,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+63,2,16776752,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+63,3,1858053,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+63,4,39355,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+63,5,28076,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+63,6,110923,31,O-1a,Open,8,2,3,C-3,Conifer,7,7,1,-5
+63,7,202638,4,C-4,Conifer,10,10,3,C-3,Conifer,7,7,3,3
+63,8,224096,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+63,9,1090730,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+63,10,12904818,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+63,11,29946,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+63,12,452571,2,C-2,Conifer,10,10,3,C-3,Conifer,7,7,3,3
+63,13,271397,650,M-1/M-2 (50 PC),Mixed,7,6,3,C-3,Conifer,7,7,0,-1
+63,14,1042561,11,D-1,Deciduous,3,3,3,C-3,Conifer,7,7,-4,-4
+63,15,172386,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+63,16,172211,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+63,17,149720,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+63,18,289232,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+63,19,66581,13,D-1/D-2,Deciduous,3,1,3,C-3,Conifer,7,7,-4,-6
+63,20,59900,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+63,21,112712,625,M-1/M-2 (25 PC),Mixed,5,3,3,C-3,Conifer,7,7,-2,-4
+63,22,163134,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+63,23,3190,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+63,24,1202493,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+63,25,405216,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+63,26,17060,675,M-1/M-2 (75 PC),Mixed,8,8,3,C-3,Conifer,7,7,1,1
+63,27,14319,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+63,28,58481,101,NF,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+63,29,3483471,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+63,30,171475,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+63,31,3571,3,C-3,Conifer,7,7,3,C-3,Conifer,7,7,0,0
+63,32,62730,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+63,33,260899,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+63,34,146317,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+63,35,123607,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+63,36,208516,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+63,37,3314,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+63,38,78017,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+63,39,57506,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+63,40,31325,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+63,41,49557,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+63,42,32619,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+63,43,387473,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+63,44,18542,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+63,45,17027,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+63,46,43336,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+63,47,11116,5,C-5,Conifer,3,2,3,C-3,Conifer,7,7,-4,-5
+63,48,8587,102,Water,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+63,49,7997,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+63,50,15417,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+63,51,4335,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+63,52,10819,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+63,53,10790,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+63,54,16369,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+63,55,133944,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+63,56,1729,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+63,57,102025,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+63,58,342357,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+63,59,2682,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+63,60,19238,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+63,61,95318,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+63,62,10198,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+63,63,9145,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+63,64,1959,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+63,65,9713,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+63,66,17919,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+63,67,292,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+63,68,3075,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+63,69,2866,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+63,70,39,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+63,71,4320,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+63,72,14782,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+63,73,1423,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+63,74,1132,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+63,75,5191,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+63,76,628,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+63,77,1525,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+63,78,607,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+63,79,5241,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+63,80,138,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+63,81,1639,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+63,82,6734,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+63,83,201,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+63,84,2,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+63,85,11,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+63,86,2,415,M-1 (15 PC),Mixed,3,3,3,C-3,Conifer,7,7,-4,-4
+63,87,7,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+63,88,151776,31,O-1a,Open,8,2,13,D-1/D-2,Deciduous,3,1,5,1
+63,89,4043,4,C-4,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+63,90,50576,625,M-1/M-2 (25 PC),Mixed,5,3,13,D-1/D-2,Deciduous,3,1,2,2
+63,91,39509,101,NF,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+63,92,1753,101,NF,NonFuel,0,0,5,C-5,Conifer,3,2,-3,-2
+63,93,5704,2,C-2,Conifer,10,10,13,D-1/D-2,Deciduous,3,1,7,9
+63,94,588374,11,D-1,Deciduous,3,3,13,D-1/D-2,Deciduous,3,1,0,2
+63,95,9672,13,D-1/D-2,Deciduous,3,1,13,D-1/D-2,Deciduous,3,1,0,0
+63,96,691,102,Water,NonFuel,0,0,5,C-5,Conifer,3,2,-3,-2
+63,97,2052,2,C-2,Conifer,10,10,5,C-5,Conifer,3,2,7,8
+63,98,476,625,M-1/M-2 (25 PC),Mixed,5,3,5,C-5,Conifer,3,2,2,1
+63,99,2017,102,Water,NonFuel,0,0,13,D-1/D-2,Deciduous,3,1,-3,-1
+63,100,1007,4,C-4,Conifer,10,10,5,C-5,Conifer,3,2,7,8
+63,101,1122,13,D-1/D-2,Deciduous,3,1,5,C-5,Conifer,3,2,0,-1
+63,102,900,31,O-1a,Open,8,2,5,C-5,Conifer,3,2,5,0
+63,103,2417,11,D-1,Deciduous,3,3,5,C-5,Conifer,3,2,0,1
+63,104,598,675,M-1/M-2 (75 PC),Mixed,8,8,13,D-1/D-2,Deciduous,3,1,5,7
+63,105,15124,650,M-1/M-2 (50 PC),Mixed,7,6,13,D-1/D-2,Deciduous,3,1,4,5
+63,106,58,675,M-1/M-2 (75 PC),Mixed,8,8,5,C-5,Conifer,3,2,5,6
+63,107,32,3,C-3,Conifer,7,7,5,C-5,Conifer,3,2,4,5
+63,108,2795,650,M-1/M-2 (50 PC),Mixed,7,6,5,C-5,Conifer,3,2,4,4
+63,109,939,3,C-3,Conifer,7,7,13,D-1/D-2,Deciduous,3,1,4,6
+63,110,83,5,C-5,Conifer,3,2,5,C-5,Conifer,3,2,0,0
+63,111,39,5,C-5,Conifer,3,2,13,D-1/D-2,Deciduous,3,1,0,1
+64,1,2105306,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+64,2,57582,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+64,3,28651,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+64,4,740773,650,M-1/M-2 (50 PC),Mixed,7,6,3,C-3,Conifer,7,7,0,-1
+64,5,603599,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+64,6,6485,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+64,7,305607,2,C-2,Conifer,10,10,3,C-3,Conifer,7,7,3,3
+64,8,115983,101,NF,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+64,9,247773,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+64,10,92856,675,M-1/M-2 (75 PC),Mixed,8,8,3,C-3,Conifer,7,7,1,1
+64,11,9058293,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+64,12,697469,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+64,13,391,415,M-1 (15 PC),Mixed,3,3,100,NA,NonFuel,0,0,3,3
+64,14,101861,4,C-4,Conifer,10,10,3,C-3,Conifer,7,7,3,3
+64,15,338743,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+64,16,128053,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+64,17,25005,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,2,-3,1
+64,18,289970,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+64,19,149460,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+64,20,252143,31,O-1a,Open,8,2,3,C-3,Conifer,7,7,1,-5
+64,21,9079,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+64,22,80134,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+64,23,171685,13,D-1/D-2,Deciduous,3,1,3,C-3,Conifer,7,7,-4,-6
+64,24,5857,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+64,25,157406,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,2,-5,-1
+64,26,580297,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,6,0,0
+64,27,5668473,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+64,28,29442,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+64,29,473817,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,2,0,0
+64,30,288782,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+64,31,66843,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,6,1,2
+64,32,236267,625,M-1/M-2 (25 PC),Mixed,5,3,3,C-3,Conifer,7,7,-2,-4
+64,33,43715,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+64,34,10386,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+64,35,2841616,11,D-1,Deciduous,3,3,3,C-3,Conifer,7,7,-4,-4
+64,36,100766,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+64,37,10231,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+64,38,330308,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+64,39,1180615,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,6,1,-4
+64,40,698078,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,6,-4,-5
+64,41,4011,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+64,42,15716,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+64,43,176379,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,6,3,4
+64,44,262384,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,6,-2,-3
+64,45,81120,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+64,46,3729,415,M-1 (15 PC),Mixed,3,3,3,C-3,Conifer,7,7,-4,-4
+64,47,23406,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+64,48,3768,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+64,49,8164,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+64,50,13843,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,6,-4,-3
+64,51,6380,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+64,52,74136,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,2,-1,4
+64,53,380105,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+64,54,23703,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+64,55,3447,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+64,56,26758,3,C-3,Conifer,7,7,3,C-3,Conifer,7,7,0,0
+64,57,1091,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,2,-5,1
+64,58,15548,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,2,0,6
+64,59,166784,5,C-5,Conifer,3,2,3,C-3,Conifer,7,7,-4,-5
+64,60,77754,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,6,-4,-4
+64,61,17130,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+64,62,22976,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,6,0,1
+64,63,4024,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+64,64,38359,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+64,65,196586,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+64,66,24271,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+64,67,2336979,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+64,68,22122,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+64,69,64438,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+64,70,54789,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+64,71,1027,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+64,72,34247,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,2,2,8
+64,73,8132,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,2,-1,5
+64,74,4715,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+64,75,1791,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+64,76,33925,102,Water,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+64,77,7103,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+64,78,63151,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+64,79,4381,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+64,80,15351,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+64,81,4471,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+64,82,2536,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+64,83,1835,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+64,84,314,415,M-1 (15 PC),Mixed,3,3,102,Water,NonFuel,0,0,3,3
+64,85,1342,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+64,86,318,415,M-1 (15 PC),Mixed,3,3,101,NF,NonFuel,0,0,3,3
+64,87,7906,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+64,88,5290,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+64,89,11573,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+64,90,10611,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,2,-5,0
+64,91,1781,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+64,92,3,105,VNF,NonFuel,0,0,3,C-3,Conifer,7,7,-7,-7
+64,93,14,105,VNF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+64,94,8,105,VNF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+64,95,1,105,VNF,NonFuel,0,0,33,O-1a/O-1b,Open,8,2,-8,-2
+64,96,3,105,VNF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+64,97,13,105,VNF,NonFuel,0,0,60,M-1/M-2,Mixed,7,6,-7,-6
+66,1,426215,3,C-3,Conifer,7,7,2,C-2,Conifer,10,10,-3,-3
+66,2,6290605,2,C-2,Conifer,10,10,2,C-2,Conifer,10,10,0,0
+66,3,1035037,4,C-4,Conifer,10,10,2,C-2,Conifer,10,10,0,0
+66,4,13394,3,C-3,Conifer,7,7,102,Water,NonFuel,0,0,7,7
+66,5,35357,675,M-1/M-2 (75 PC),Mixed,8,8,102,Water,NonFuel,0,0,8,8
+66,6,80826,2,C-2,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+66,7,1592816,675,M-1/M-2 (75 PC),Mixed,8,8,2,C-2,Conifer,10,10,-2,-2
+66,8,3492951,675,M-1/M-2 (75 PC),Mixed,8,8,60,M-1/M-2,Mixed,7,7,1,1
+66,9,131029,2,C-2,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+66,10,12780,3,C-3,Conifer,7,7,100,NA,NonFuel,0,0,7,7
+66,11,78242,675,M-1/M-2 (75 PC),Mixed,8,8,100,NA,NonFuel,0,0,8,8
+66,12,10648895,2,C-2,Conifer,10,10,60,M-1/M-2,Mixed,7,7,3,3
+66,13,2971101,2,C-2,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+66,14,109283,3,C-3,Conifer,7,7,1,C-1,Conifer,7,7,0,0
+66,15,262999,3,C-3,Conifer,7,7,60,M-1/M-2,Mixed,7,7,0,0
+66,16,1535819,675,M-1/M-2 (75 PC),Mixed,8,8,1,C-1,Conifer,7,7,1,1
+66,17,11567262,11,D-1,Deciduous,3,3,1,C-1,Conifer,7,7,-4,-4
+66,18,697641,650,M-1/M-2 (50 PC),Mixed,7,6,2,C-2,Conifer,10,10,-3,-4
+66,19,4269837,650,M-1/M-2 (50 PC),Mixed,7,6,60,M-1/M-2,Mixed,7,7,0,-1
+66,20,311694,31,O-1a,Open,8,2,60,M-1/M-2,Mixed,7,7,1,-5
+66,21,7627239,11,D-1,Deciduous,3,3,60,M-1/M-2,Mixed,7,7,-4,-4
+66,22,2045255,4,C-4,Conifer,10,10,60,M-1/M-2,Mixed,7,7,3,3
+66,23,1579917,625,M-1/M-2 (25 PC),Mixed,5,3,60,M-1/M-2,Mixed,7,7,-2,-4
+66,24,209874,13,D-1/D-2,Deciduous,3,1,1,C-1,Conifer,7,7,-4,-6
+66,25,1412494,625,M-1/M-2 (25 PC),Mixed,5,3,1,C-1,Conifer,7,7,-2,-4
+66,26,2098702,650,M-1/M-2 (50 PC),Mixed,7,6,1,C-1,Conifer,7,7,0,-1
+66,27,90997,11,D-1,Deciduous,3,3,101,NF,NonFuel,0,0,3,3
+66,28,140021,675,M-1/M-2 (75 PC),Mixed,8,8,101,NF,NonFuel,0,0,8,8
+66,29,142447,2,C-2,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+66,30,239489,4,C-4,Conifer,10,10,33,O-1a/O-1b,Open,8,8,2,2
+66,31,91339,650,M-1/M-2 (50 PC),Mixed,7,6,100,NA,NonFuel,0,0,7,6
+66,32,202773,31,O-1a,Open,8,2,2,C-2,Conifer,10,10,-2,-8
+66,33,341677,13,D-1/D-2,Deciduous,3,1,60,M-1/M-2,Mixed,7,7,-4,-6
+66,34,957382,4,C-4,Conifer,10,10,1,C-1,Conifer,7,7,3,3
+66,35,1556454,11,D-1,Deciduous,3,3,33,O-1a/O-1b,Open,8,8,-5,-5
+66,36,489413,650,M-1/M-2 (50 PC),Mixed,7,6,33,O-1a/O-1b,Open,8,8,-1,-2
+66,37,743386,2,C-2,Conifer,10,10,33,O-1a/O-1b,Open,8,8,2,2
+66,38,47065,650,M-1/M-2 (50 PC),Mixed,7,6,102,Water,NonFuel,0,0,7,6
+66,39,211805,31,O-1a,Open,8,2,102,Water,NonFuel,0,0,8,2
+66,40,561830,675,M-1/M-2 (75 PC),Mixed,8,8,33,O-1a/O-1b,Open,8,8,0,0
+66,41,59009,650,M-1/M-2 (50 PC),Mixed,7,6,101,NF,NonFuel,0,0,7,6
+66,42,406268,11,D-1,Deciduous,3,3,2,C-2,Conifer,10,10,-7,-7
+66,43,564766,625,M-1/M-2 (25 PC),Mixed,5,3,33,O-1a/O-1b,Open,8,8,-3,-5
+66,44,275331,625,M-1/M-2 (25 PC),Mixed,5,3,2,C-2,Conifer,10,10,-5,-7
+66,45,19793,3,C-3,Conifer,7,7,33,O-1a/O-1b,Open,8,8,-1,-1
+66,46,73286,415,M-1 (15 PC),Mixed,3,3,33,O-1a/O-1b,Open,8,8,-5,-5
+66,47,73324,415,M-1 (15 PC),Mixed,3,3,60,M-1/M-2,Mixed,7,7,-4,-4
+66,48,40091,4,C-4,Conifer,10,10,101,NF,NonFuel,0,0,10,10
+66,49,18649,4,C-4,Conifer,10,10,102,Water,NonFuel,0,0,10,10
+66,50,168794,13,D-1/D-2,Deciduous,3,1,33,O-1a/O-1b,Open,8,8,-5,-7
+66,51,182556,13,D-1/D-2,Deciduous,3,1,2,C-2,Conifer,10,10,-7,-9
+66,52,60204,625,M-1/M-2 (25 PC),Mixed,5,3,101,NF,NonFuel,0,0,5,3
+66,53,144199,101,NF,NonFuel,0,0,33,O-1a/O-1b,Open,8,8,-8,-8
+66,54,28828,4,C-4,Conifer,10,10,100,NA,NonFuel,0,0,10,10
+66,55,33982,415,M-1 (15 PC),Mixed,3,3,2,C-2,Conifer,10,10,-7,-7
+66,56,184531,11,D-1,Deciduous,3,3,100,NA,NonFuel,0,0,3,3
+66,57,65207,415,M-1 (15 PC),Mixed,3,3,1,C-1,Conifer,7,7,-4,-4
+66,58,338246,101,NF,NonFuel,0,0,60,M-1/M-2,Mixed,7,7,-7,-7
+66,59,12955,415,M-1 (15 PC),Mixed,3,3,101,NF,NonFuel,0,0,3,3
+66,60,590058,31,O-1a,Open,8,2,1,C-1,Conifer,7,7,1,-5
+66,61,8294690,102,Water,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+66,62,24634,13,D-1/D-2,Deciduous,3,1,102,Water,NonFuel,0,0,3,1
+66,63,46844,13,D-1/D-2,Deciduous,3,1,101,NF,NonFuel,0,0,3,1
+66,64,21694,102,Water,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+66,65,39433,625,M-1/M-2 (25 PC),Mixed,5,3,100,NA,NonFuel,0,0,5,3
+66,66,3421,3,C-3,Conifer,7,7,101,NF,NonFuel,0,0,7,7
+66,67,1310,415,M-1 (15 PC),Mixed,3,3,102,Water,NonFuel,0,0,3,3
+66,68,141301,101,NF,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+66,69,188442,101,NF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+66,70,325807,101,NF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+66,71,17740,625,M-1/M-2 (25 PC),Mixed,5,3,102,Water,NonFuel,0,0,5,3
+66,72,29899,102,Water,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+66,73,35097,11,D-1,Deciduous,3,3,102,Water,NonFuel,0,0,3,3
+66,74,22237,102,Water,NonFuel,0,0,60,M-1/M-2,Mixed,7,7,-7,-7
+66,75,2292549,101,NF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+66,76,288806,31,O-1a,Open,8,2,33,O-1a/O-1b,Open,8,8,0,-6
+66,77,42849,13,D-1/D-2,Deciduous,3,1,100,NA,NonFuel,0,0,3,1
+66,78,259408,31,O-1a,Open,8,2,100,NA,NonFuel,0,0,8,2
+66,79,120688,31,O-1a,Open,8,2,101,NF,NonFuel,0,0,8,2
+66,80,2553,415,M-1 (15 PC),Mixed,3,3,100,NA,NonFuel,0,0,3,3
+66,81,41275,101,NF,NonFuel,0,0,102,Water,NonFuel,0,0,0,0
+66,82,2566,102,Water,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+66,83,12617,102,Water,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+66,84,11294784,31,O-1a,Open,8,2,105,VNF,NonFuel,0,0,8,2
+66,85,313385,4,C-4,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+66,86,218587,13,D-1/D-2,Deciduous,3,1,105,VNF,NonFuel,0,0,3,1
+66,87,16450,102,Water,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+66,88,400704,675,M-1/M-2 (75 PC),Mixed,8,8,105,VNF,NonFuel,0,0,8,8
+66,89,216417,625,M-1/M-2 (25 PC),Mixed,5,3,105,VNF,NonFuel,0,0,5,3
+66,90,966302,101,NF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
+66,91,1449545,11,D-1,Deciduous,3,3,105,VNF,NonFuel,0,0,3,3
+66,92,426920,650,M-1/M-2 (50 PC),Mixed,7,6,105,VNF,NonFuel,0,0,7,6
+66,93,535406,2,C-2,Conifer,10,10,105,VNF,NonFuel,0,0,10,10
+66,94,71814,3,C-3,Conifer,7,7,105,VNF,NonFuel,0,0,7,7
+66,95,31475,415,M-1 (15 PC),Mixed,3,3,105,VNF,NonFuel,0,0,3,3
+66,96,9168,102,Water,NonFuel,0,0,33,O-1a/O-1b,Open,8,8,-8,-8
+66,97,1924,105,VNF,NonFuel,0,0,60,M-1/M-2,Mixed,7,7,-7,-7
+66,98,7730,5,C-5,Conifer,3,2,2,C-2,Conifer,10,10,-7,-8
+66,99,14461,5,C-5,Conifer,3,2,60,M-1/M-2,Mixed,7,7,-4,-5
+66,100,765,5,C-5,Conifer,3,2,1,C-1,Conifer,7,7,-4,-5
+66,101,937,5,C-5,Conifer,3,2,105,VNF,NonFuel,0,0,3,2
+66,102,33,5,C-5,Conifer,3,2,33,O-1a/O-1b,Open,8,8,-5,-6
+66,103,91,5,C-5,Conifer,3,2,100,NA,NonFuel,0,0,3,2
+66,104,7,5,C-5,Conifer,3,2,101,NF,NonFuel,0,0,3,2
+66,105,73,5,C-5,Conifer,3,2,102,Water,NonFuel,0,0,3,2
+66,106,5625,105,VNF,NonFuel,0,0,33,O-1a/O-1b,Open,8,8,-8,-8
+66,107,4504,105,VNF,NonFuel,0,0,1,C-1,Conifer,7,7,-7,-7
+66,108,373,105,VNF,NonFuel,0,0,101,NF,NonFuel,0,0,0,0
+66,109,183,105,VNF,NonFuel,0,0,100,NA,NonFuel,0,0,0,0
+66,110,25,105,VNF,NonFuel,0,0,2,C-2,Conifer,10,10,-10,-10
+66,111,64,105,VNF,NonFuel,0,0,105,VNF,NonFuel,0,0,0,0
